@@ -1,5 +1,5 @@
 # Smart-vehicle-reverse-braking-system
-This is a C Code for an arduino circuit designed using tinkercad that acts as a smart reverse-braking system
+This is a C Code for an arduino circuit designed using tinkercad that acts as a smart reverse-braking system. The circuit picture has also been attached with the files for reference.
 <h3>An overview</h3><hr>
 <ul>
   <li>This project intends to provide additional safety to a vehicle that comes close to an object or an obstacle, while moving in the reverse direction, by providing different lighting alerts (depending upon how close the vehicle is to an object) .</li>
